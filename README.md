@@ -19,11 +19,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles for Grouping Permissions
+- Congifure Departments for Ticket Visibility
+- Configure Teams to Assign Agents from Multiple Departments
+- Configure Ticket Service Level Agreement
+- Configure Help Topics for When Users Creating a Ticket
 
 <h2>Configuration Steps</h2>
 
