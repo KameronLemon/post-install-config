@@ -67,3 +67,51 @@ Allow any enduser to create tickets by going to Admin Panel -> Settings -> User 
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/504fdaae-247d-4fce-ac7f-0009beabd5db)
+
+![image](https://github.com/user-attachments/assets/c3118ead-4d3d-439a-a4e5-f1e78fee1425)
+
+
+</p>
+<p>
+In Admin Panel -> Agents -> Add New create two new agents (Jane in Sysadmins and John in Support)
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/dcca9592-20fa-4ae1-b2f6-2805034f5ac7)
+
+</p>
+<p>
+In Agent Panel -> Users -> Add New Create a new user.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/8c9b174a-e7dc-4cee-a7b1-5e017cab2857)
+
+![image](https://github.com/user-attachments/assets/342813a8-191b-4d38-8775-471b683c1bbe)
+
+</p>
+<p>
+In Admin Panel -> Manage -> SLA and Create a few service level agreements with varying levels of severity.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/58a93abd-e26e-4e44-83a5-83d83d550dab)
+
+![image](https://github.com/user-attachments/assets/29996e09-0da2-43e3-9f98-d7da30c97758)
+
+</p>
+<p>
+In Admin Panel -> Manage -> Help Topics and create brand new help topics for inquiry.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/21204415-a6ef-4031-afcd-05e55966a1ca)
+
+Congratulations! you have Succesfully setup osTicket for user support! If you need help feel free to reach out to me via linkedin!
+
+
+
+
+
+
