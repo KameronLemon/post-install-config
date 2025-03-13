@@ -27,11 +27,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/34958153-6b84-4875-b0cb-e503e10f8a07)
+
+![image](https://github.com/user-attachments/assets/f281c635-62e1-4efa-84b8-9349935c07fd)
+
+![image](https://github.com/user-attachments/assets/f07f00ef-44e8-473a-9b2b-949bc7667460)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Admin Panel -> Agents -> Roles create a role that has access to all permissions.
 </p>
 <br />
 
